@@ -1,0 +1,30 @@
+h1{  color:yellow;
+    background-color: pink;
+    text-align: center;
+    text-decoration:   rgb(5, 0, 0) underline;
+    font-size:50px;
+    font-family: arial;
+}
+h2{
+    color:blue;
+    background-color: pink;
+    text-align: start;
+    text-decoration:  dotted yellow underline;
+}
+h3{
+    color:green;
+    background-color: PINK;
+    text-align: start;
+    text-decoration:  double blue underline;
+}
+p{
+    text-align: justify;
+    font-weight:300;
+    line-height: 1.5;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    COLOR: WHITE;
+    background-color: BLACK;
+    FONT-SIZE: 15px;
+    font-family:Impact;
+}
